@@ -1,7 +1,7 @@
 {
     "rewrites": [
        {
-        "source": "/engths2x",
+        "source": "/engths2xs",
         "destination": "/engbpp3.html"
     
       },
